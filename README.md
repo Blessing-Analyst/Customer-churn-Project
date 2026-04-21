@@ -1,25 +1,32 @@
-# Customer Churn Prediction
+## 📊 Customer Churn Prediction Project
 
-This project focuses on predicting customer churn using Python and machine learning techniques.
+### 🧠 Overview
+This project uses machine learning to predict whether a customer will churn based on historical data.
 
-## 📌 Overview
-Customer churn refers to customers who stop using a service. This project aims to identify such customers early so businesses can improve retention.
+---
 
-## 🛠 Tools & Technologies
+### ⚙️ Tools Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
+- Matplotlib / Seaborn
 
-## 📊 Project Steps
-- Data loading and cleaning
+---
+
+### 🔄 Workflow
+- Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
-- Feature selection
-- Model training (Logistic Regression)
+- Feature engineering
+- Model training using Logistic Regression
 - Model evaluation
 
-## 🎯 Objective
-To help businesses identify customers likely to leave and take proactive action.
+---
 
-## 📈 Status
-Project in progress
+### 📈 Results
+The model achieved approximately XX% accuracy in predicting customer churn.
+
+---
+
+### 🚀 Status
+Completed
